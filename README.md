@@ -48,8 +48,8 @@ You are required to model the demand for shared bikes with the available indepen
 - Summary of train data 
      - Actual and predicted is almost same - The model is good
      - R2 score of y_train vs y_train_cnt is almost same as model R2 score
-     R2_score of train data - 0.7819417778097163
-     R2_Score of test data - 0.7759901851504777
+       - R2_score of train data - 0.7819417778097163
+       - R2_Score of test data - 0.7759901851504777
 
 - Summary of test data
      - Variance of the residuals (error terms) is constant across predictions. i.e error term does not vary much as the value of the predictor variable changes.
