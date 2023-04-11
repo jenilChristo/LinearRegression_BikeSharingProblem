@@ -35,7 +35,7 @@ You are required to model the demand for shared bikes with the available indepen
 ## Model Conclusions
 - <b>Model Summary of FINAL MODEL:</b><br>
     ![Modelsummary](https://github.com/jenilChristo/LinearRegression_BikeSharingProblem/blob/main/final_model_summary.png)
-  The top 4 influence on the bike booking /demand
+  - The top 4 influence on the bike booking /demand
 
     - temp : A coefficient value of   4017.586 indicated that a unit increase in temp variable increases the bike demand by same number, provided all other variables are held constant
 
