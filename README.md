@@ -27,7 +27,8 @@ You are required to model the demand for shared bikes with the available indepen
 - To identify the driving factors that increase the demand 
 - To model the demand for shared bikes and use it to make approprite business decisions to solve the revenue issue
 - The forecasting model should predict the demand accurately and this information can be leveraged by the company to meet the future demand spike.
-
+- Achieve model accuracy the best posible and take care of multicollinearity 
+- Validate all the assumptions of multiple linear regression
 
 
 
